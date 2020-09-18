@@ -17,7 +17,7 @@ class Header extends React.Component {
         </h2>
         <a href="/#" className="my-work">
           View my work &nbsp;  
-          <i className="fas fa-angle-double-right yes"></i>
+          <i className="fas fa-angle-double-right arrow"></i>
         </a> 
       </Container>
      );
