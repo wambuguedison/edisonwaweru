@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/edisonwaweru/static/css/main.b232440f.chunk.css",
+    "main.css": "/edisonwaweru/static/css/main.aa792b2d.chunk.css",
     "main.js": "/edisonwaweru/static/js/main.b4728cf3.chunk.js",
     "main.js.map": "/edisonwaweru/static/js/main.b4728cf3.chunk.js.map",
     "runtime-main.js": "/edisonwaweru/static/js/runtime-main.a6136804.js",
@@ -8,16 +8,16 @@
     "static/js/2.11581694.chunk.js": "/edisonwaweru/static/js/2.11581694.chunk.js",
     "static/js/2.11581694.chunk.js.map": "/edisonwaweru/static/js/2.11581694.chunk.js.map",
     "index.html": "/edisonwaweru/index.html",
-    "precache-manifest.1df766b14e701a9e8ed2e02141b93e15.js": "/edisonwaweru/precache-manifest.1df766b14e701a9e8ed2e02141b93e15.js",
+    "precache-manifest.c950279c138aef13640ee9e834049142.js": "/edisonwaweru/precache-manifest.c950279c138aef13640ee9e834049142.js",
     "service-worker.js": "/edisonwaweru/service-worker.js",
-    "static/css/main.b232440f.chunk.css.map": "/edisonwaweru/static/css/main.b232440f.chunk.css.map",
+    "static/css/main.aa792b2d.chunk.css.map": "/edisonwaweru/static/css/main.aa792b2d.chunk.css.map",
     "static/js/2.11581694.chunk.js.LICENSE.txt": "/edisonwaweru/static/js/2.11581694.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/edisonwaweru/static/media/Kalam-Regular.bea35746.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.a6136804.js",
     "static/js/2.11581694.chunk.js",
-    "static/css/main.b232440f.chunk.css",
+    "static/css/main.aa792b2d.chunk.css",
     "static/js/main.b4728cf3.chunk.js"
   ]
 }

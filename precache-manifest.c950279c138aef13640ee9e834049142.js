@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b532e021f9d2ee3f584f6779d244b055",
+    "revision": "772f632236c23b3da02af2e2518f39d4",
     "url": "/edisonwaweru/index.html"
   },
   {
-    "revision": "e4bd69248f6f6bdf6c9c",
-    "url": "/edisonwaweru/static/css/main.b232440f.chunk.css"
+    "revision": "451a88286388444d2580",
+    "url": "/edisonwaweru/static/css/main.aa792b2d.chunk.css"
   },
   {
     "revision": "0625f896f0fa3e51046f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edisonwaweru/static/js/2.11581694.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4bd69248f6f6bdf6c9c",
+    "revision": "451a88286388444d2580",
     "url": "/edisonwaweru/static/js/main.b4728cf3.chunk.js"
   },
   {
