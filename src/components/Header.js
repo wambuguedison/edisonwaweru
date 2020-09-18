@@ -15,7 +15,10 @@ class Header extends React.Component {
           <br/>
           I am a Software Engineer.    
         </h2>
-        <a href="/#" className="my-work">View my work &nbsp; </a> 
+        <a href="/#" className="my-work">
+          View my work &nbsp;  
+          <i className="fas fa-angle-double-right yes"></i>
+        </a> 
       </Container>
      );
   }
