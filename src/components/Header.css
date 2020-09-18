@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Kalam;
+  src: url(Kalam-Regular.ttf);
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -12,7 +17,7 @@
 
 .hey {
   color: white;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Kalam', cursive;
   text-align: center;
   font-size: 1.5em;
   font-weight: normal;
@@ -24,11 +29,15 @@
 }
 
 .my-work {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Kalam', cursive;
   font-size: 16pt;
   border: 1px solid white;
   padding: 0.3em;
   text-decoration: none;
   border-radius: .3em;
   color: white;
+}
+
+.my-work:hover .arrow {
+  color: red;
 }
