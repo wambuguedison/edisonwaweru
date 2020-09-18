@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/edisonwaweru/static/css/main.fc35b066.chunk.css",
-    "main.js": "/edisonwaweru/static/js/main.3bba5cd4.chunk.js",
-    "main.js.map": "/edisonwaweru/static/js/main.3bba5cd4.chunk.js.map",
+    "main.css": "/edisonwaweru/static/css/main.b232440f.chunk.css",
+    "main.js": "/edisonwaweru/static/js/main.b4728cf3.chunk.js",
+    "main.js.map": "/edisonwaweru/static/js/main.b4728cf3.chunk.js.map",
     "runtime-main.js": "/edisonwaweru/static/js/runtime-main.a6136804.js",
     "runtime-main.js.map": "/edisonwaweru/static/js/runtime-main.a6136804.js.map",
     "static/js/2.11581694.chunk.js": "/edisonwaweru/static/js/2.11581694.chunk.js",
     "static/js/2.11581694.chunk.js.map": "/edisonwaweru/static/js/2.11581694.chunk.js.map",
     "index.html": "/edisonwaweru/index.html",
-    "precache-manifest.7337b4f337822f6fa0be6dd5d2638af5.js": "/edisonwaweru/precache-manifest.7337b4f337822f6fa0be6dd5d2638af5.js",
+    "precache-manifest.1df766b14e701a9e8ed2e02141b93e15.js": "/edisonwaweru/precache-manifest.1df766b14e701a9e8ed2e02141b93e15.js",
     "service-worker.js": "/edisonwaweru/service-worker.js",
-    "static/css/main.fc35b066.chunk.css.map": "/edisonwaweru/static/css/main.fc35b066.chunk.css.map",
-    "static/js/2.11581694.chunk.js.LICENSE.txt": "/edisonwaweru/static/js/2.11581694.chunk.js.LICENSE.txt"
+    "static/css/main.b232440f.chunk.css.map": "/edisonwaweru/static/css/main.b232440f.chunk.css.map",
+    "static/js/2.11581694.chunk.js.LICENSE.txt": "/edisonwaweru/static/js/2.11581694.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/edisonwaweru/static/media/Kalam-Regular.bea35746.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.a6136804.js",
     "static/js/2.11581694.chunk.js",
-    "static/css/main.fc35b066.chunk.css",
-    "static/js/main.3bba5cd4.chunk.js"
+    "static/css/main.b232440f.chunk.css",
+    "static/js/main.b4728cf3.chunk.js"
   ]
 }
